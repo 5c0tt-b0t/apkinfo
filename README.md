@@ -20,4 +20,4 @@ application: label='Greenify' icon='res/mipmap-mdpi-v4/ic_launcher.png'
 launchable-activity: name='com.oasisfeng.greenify.GreenifyActivity'  label='' icon=''
 ```
 
-
+test.
